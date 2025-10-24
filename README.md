@@ -1,4 +1,4 @@
-<img width="516" height="369" alt="Screenshot 2025-10-24 105701" src="https://github.com/user-attachments/assets/521fdcb4-d240-43d6-8334-df1550cbc4eb" /># Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
