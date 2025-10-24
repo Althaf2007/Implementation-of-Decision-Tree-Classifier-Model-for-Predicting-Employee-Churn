@@ -98,7 +98,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### Optimization of null values:
 
-<img width="516" height="369" alt="Screenshot 2025-10-24 105701" src="https://github.com/user-attachments/assets/3dc0d7ba-823e-4d91-95c5-a6c861afcc43" />
+<img width="286" height="238" alt="image" src="https://github.com/user-attachments/assets/4a14c0cb-9596-48e1-b9c6-0c5c52f2f923" />
 
 ### Assignment of x and y values:
 
